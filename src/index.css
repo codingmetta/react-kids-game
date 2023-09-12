@@ -9,7 +9,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
   background-color: #0B2434;
   padding: 20px;
   font-family: 'Karla', sans-serif;
@@ -17,4 +16,3 @@ body {
   justify-content: center;
   align-items: center;
 }
-
